@@ -64,8 +64,8 @@ color: #8f8f8f;
    font-size-adjust: auto;
    text-shadow: 1px 1px black;
    margin: auto;
-   margin-top: 30px;
-   margin-bottom: 30px;
+   /*margin-top: 30px;
+   margin-bottom: 30px;*/
    text-align: center;
    color: #FFF;
        border-top: medium double #fff;
