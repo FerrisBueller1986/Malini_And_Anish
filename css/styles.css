@@ -33,7 +33,7 @@ h1, h2, h3, h5, h6 {
 
 
 .bg-image{
-  background-position: center;
+  background-position:bottom;
   background-repeat:no-repeat;
   background-size: cover;
   margin-left: auto;
