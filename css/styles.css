@@ -42,17 +42,16 @@ h1, h2, h3, h5, h6 {
  }
 
 .mb-0{
-color: #8f8f8f;
-
+  color: #8f8f8f;
+  font-size: 20px;
 }
 
  .mb-3 {
    font-family: 'Pacifico', cursive;
-       font-size: 36px;
-       margin-top: 70px;
-       text-shadow: 7px 7px 20px #2e8069;
-
-   }
+   font-size: 36px;
+   margin-top: 70px;
+   text-shadow: 7px 7px 20px #2e8069;
+ }
 
 
  .mb-4 {
@@ -68,8 +67,8 @@ color: #8f8f8f;
    margin-bottom: 30px;*/
    text-align: center;
    color: #FFF;
-       border-top: medium double #fff;
-       border-bottom: medium double #fff;
+   border-top: medium double #fff;
+   border-bottom: medium double #fff;
  }
 
  .mb-5 {
@@ -90,6 +89,7 @@ text-shadow: none;
 
 a{
   color: white;
+  text-decoration: underline;
 }
 
 p {
