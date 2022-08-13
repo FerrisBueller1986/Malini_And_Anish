@@ -390,7 +390,7 @@ li span {
   position:fixed;
   width:auto;
   text-shadow: 3px 4px 20px #2e8069;
-  /*background-color: rgba(255,255,255,.5);*/
+  background-color: rgba(255,255,255,0.2);
 }
 
 
