@@ -33,7 +33,7 @@ h1, h2, h3, h5, h6 {
 
 
 .bg-image{
-  background-position:bottom;
+  background-position:top;
   background-repeat:no-repeat;
   background-size: cover;
   margin-left: auto;
@@ -137,7 +137,7 @@ p {
   color: #fff;
   font-family: "Ubuntu";
   border: 1px;
-
+}
 .white-section {
   background-color: white;
   font-family: "Ubuntu";
