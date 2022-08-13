@@ -95,7 +95,7 @@ a{
 p {
   color: white;
   margin: 0;
-
+  font-size: 20px;
 }
 
 
@@ -133,7 +133,7 @@ p {
   background-color: #2e8069;
   color: #fff;
   font-family: "Ubuntu";
-}
+  border: 1px;
 
 .white-section {
   background-color: white;
