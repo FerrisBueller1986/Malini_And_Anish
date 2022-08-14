@@ -41,9 +41,16 @@ h1, h2, h3, h5, h6 {
   display: block;
  }
 
+@media screen and (max-width: 1000px) {
+  .mb-0{
+    color: #8f8f8f;
+    font-size: 25px;
+  }
+
+}
 .mb-0{
   color: #8f8f8f;
-  font-size: 22px;
+  font-size: 20px;
 }
 
  .mb-3 {
